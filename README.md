@@ -2,8 +2,6 @@
 
 Una aplicación web moderna para calcular promedios y notas finales ponderadas, desarrollada con React y TypeScript.
 
-![Calculadora de Calificaciones](https://images.pexels.com/photos/4386321/pexels-photo-4386321.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-
 ## Características
 
 - 🎯 Cálculo de promedios por categoría
